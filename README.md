@@ -22,9 +22,8 @@ Lean full-stack receipt parser designed to show practical product judgment in a 
 
 1. `cd server`
 2. `npm install`
-3. Copy `.env.example` to `.env`
-4. Set `OPENAI_API_KEY`
-5. `npm run dev`
+3. Set `OPENAI_API_KEY`
+4. `npm run dev`
 
 ### Client
 
