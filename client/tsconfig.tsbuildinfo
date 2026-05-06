@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/receipt.ts","./src/components/appheader.tsx","./src/components/emptyreceiptstate.tsx","./src/components/errorbanner.tsx","./src/components/fieldcard.tsx","./src/components/lineitemstable.tsx","./src/components/receiptreview.tsx","./src/components/receiptsidebar.tsx"],"version":"5.9.3"}
